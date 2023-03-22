@@ -1,0 +1,13 @@
+.bg_top_Other {
+    background-image: url(../image/bg/bg-other.svg);
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    object-position: bottom;
+}
+.txt-white{
+    color: #fff;
+}
+.text_contact{
+    color: #037171;
+}
