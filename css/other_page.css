@@ -11,3 +11,11 @@
 .text_contact{
     color: #037171;
 }
+.btn_recommend{
+    background-color: #037171;
+    color: #fff;
+    height: 100%;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 0px;
+}
